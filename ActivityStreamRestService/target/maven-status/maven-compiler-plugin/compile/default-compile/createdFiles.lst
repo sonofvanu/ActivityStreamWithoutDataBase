@@ -1,0 +1,8 @@
+com\activity\stream\restservice\config\BeanDoctor.class
+com\activity\stream\restservice\controller\UserController.class
+com\activity\stream\restservice\config\AppConfiguration.class
+com\activity\stream\restservice\dao\UserDAO.class
+com\activity\stream\restservice\daoimpl\UserDAOImpl.class
+com\activity\stream\restservice\controller\DisplayController.class
+com\activity\stream\restservice\model\User.class
+com\activity\stream\restservice\config\AppInitializer.class
